@@ -3,7 +3,10 @@
 A C++ program that solves Sudoku puzzles. This project is archivally preserved from code written approximately 7 years ago.
 
 ## Authors
+<<<<<<< HEAD
 
+=======
+>>>>>>> e83bd8d6c4051faa2e819cca0ead650cea548cc9
 - Amin Latifi (810798159)
 - Shervin Mahmoudi (810798161)
 - Morteza Fattah Pour (810798151)
@@ -12,9 +15,14 @@ A C++ program that solves Sudoku puzzles. This project is archivally preserved f
 
 1. **Input File**: The program reads the puzzle from a file named `sudoku.txt` located in the same directory.
 2. **Format**: Use numbers `1-9` for known cells and `-` (dash) for empty cells. Separate numbers with spaces.
+<<<<<<< HEAD
 
    Example `sudoku.txt`:
 
+=======
+   
+   Example `sudoku.txt`:
+>>>>>>> e83bd8d6c4051faa2e819cca0ead650cea548cc9
    ```text
    9 4 - - - 8 - - -
    - - - - 7 - 6 9 -
@@ -30,9 +38,14 @@ A C++ program that solves Sudoku puzzles. This project is archivally preserved f
 3. **Output**: The program will print the solved grid to the console.
 
    Example Output:
+<<<<<<< HEAD
 
    ```text
     +=======+=======+=======+
+=======
+   ```text
+   +=======+=======+=======+
+>>>>>>> e83bd8d6c4051faa2e819cca0ead650cea548cc9
     | 9 4 6 | 5 2 8 | 7 3 1 |
     | 8 5 2 | 3 7 1 | 6 9 4 |
     | 3 1 7 | 9 6 4 | 5 8 2 |
